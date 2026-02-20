@@ -80,7 +80,7 @@ export default function ContactForm({ initialType = 'client', onToggle }: Contac
                         <div className="space-y-8">
                             {[
                                 { icon: Mail, label: "Email Us", value: "ilarcstudio.in@gmail.com" },
-                                { icon: Phone, label: "Call Us", value: "+91 99886 41185" },
+                                { icon: Phone, label: "Call Us", value: "+91 96501 04661" },
                                 { icon: MapPin, label: "Our Base", value: "Gurugram, HR, India" }
                             ].map((item, i) => (
                                 <div key={i} className="flex items-center gap-6 group">
